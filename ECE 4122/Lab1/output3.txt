@@ -1,0 +1,2 @@
+the velocity value is: 
+2.96052
